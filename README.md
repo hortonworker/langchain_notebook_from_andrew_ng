@@ -8,4 +8,5 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 2. Memory;
 3. Chains;
 4. Questions & Asnwers;
-5. Agents.
+5. Evaluation
+6. Agents.
